@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaoDacDat
 - 👀 I’m interested in socccer and IT
-- 🌱 I’m currently learning C++ and Python
+- 🌱 I have learned C++ and Python, now I'm currently learning Data Science, C# and MIPS
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me : I'm studying Mathematic and Informatic at HUST.
 
